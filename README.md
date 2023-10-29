@@ -1,2 +1,8 @@
-# canvas-study
-canvas学习和总结
+# canvas学习和总结
+
+## 粒子时钟
+
+>所有的复杂问题都是一个个简单问题组成的
+真正有价值的是：如何将复杂问题分解为一个个的简单问题
+
+![粒子时钟](./images/particleClick.gif)
